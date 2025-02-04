@@ -7,13 +7,13 @@ This project develops a predictive model to help optimize sales call targeting b
 ## Project Structure
 mermaid
 flowchart LR
-A[Data Collection] --> B[Exploratory Data Analysis]
-B --> C[Feature Selection]
-C --> D[Feature Engineering]
-D --> E[Base Modeling]
-E --> F[Hyperparameter Tuning]
-F --> G[Model Interpretability]
-
+    A[Data Collection] --> B[Exploratory Data Analysis]
+    B --> C[Feature Selection]
+    C --> D[Feature Engineering]
+    D --> E[Base Modeling]
+    E --> F[Hyperparameter Tuning]
+    F --> G[Model Interpretability]
+    
 ## Pipeline Steps
 
 ### 1. Data Collection (`dataset.csv`)
