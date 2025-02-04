@@ -30,8 +30,8 @@ This project develops a predictive model to help optimize sales call targeting b
         |                                                        |
         |                                                        v
         +--------------------------------------------> +-------------------+
-                                                      | Model            |
-                                                      | Interpretability |
+                                                      | Model             |
+                                                      | Interpretability  |
                                                       +-------------------+
 
 ## Pipeline Steps
