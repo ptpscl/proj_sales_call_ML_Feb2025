@@ -5,7 +5,7 @@ A machine learning project to predict customer response to sales calls, develope
 This project develops a predictive model to help optimize sales call targeting by identifying customers most likely to respond positively to cold calls. The model uses customer demographics, telematics data, and macroeconomic indicators to predict sales success probability.
 
 ## Project Structure
-"mermaid"
+```mermaid
 flowchart LR
     A[Data Collection] --> B[Exploratory Data Analysis]
     B --> C[Feature Selection]
@@ -13,6 +13,7 @@ flowchart LR
     D --> E[Base Modeling]
     E --> F[Hyperparameter Tuning]
     F --> G[Model Interpretability]
+
     
 ## Pipeline Steps
 
