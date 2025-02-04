@@ -13,8 +13,7 @@ flowchart LR
     D --> E[Base Modeling]
     E --> F[Hyperparameter Tuning]
     F --> G[Model Interpretability]
-
-    
+```
 ## Pipeline Steps
 
 ### 1. Data Collection (`dataset.csv`)
